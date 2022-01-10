@@ -2,7 +2,7 @@
 
 ## What is CAMPD?
 
-The Clean Air Markets Program Data (CAMPD) web application is the data publication warehouse for allowance, compliance, emissions and facility/unit attributes data collected under EPA’s federal market-based trading programs: Cross-State Air Pollution Rule (CSAPR), CSAPR Update, Revised CSAPR Update, Acid Rain Program (ARP), and other retired programs.
+The **Clean Air Markets Program Data (CAMPD)** web application is the data publication warehouse for allowance, compliance, emissions and facility/unit attributes data collected under EPA’s federal market-based trading programs: Cross-State Air Pollution Rule (CSAPR), CSAPR Update, Revised CSAPR Update, Acid Rain Program (ARP), and other retired programs.
 
 CAMPD provides current and historical data using REST APIs which will be accessible via the Clean Air Markets (CAM) API portal in a future release.
 
